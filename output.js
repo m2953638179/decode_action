@@ -1,4 +1,4 @@
-//Sun Nov 17 2024 05:19:22 GMT+0000 (Coordinated Universal Time)
+//Sun Nov 17 2024 05:50:07 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 var ParamsSignLite = function () {
